@@ -1,0 +1,24 @@
+Section 1 (Committers),,,,
+
+dev.eclipse.org Login,,,,
+dsciamma,,,,
+gcannente,,,,
+jlescot,,,,
+lbigearde,,,,
+
+
+Section 2 (Developers),,,,
+
+Component,Bug #,Contributor,Size,Committer
+org.eclipse.emf.ecoretools,228996,Ed Merks,543893,jlescot
+org.eclipse.emf.ecoretools.diagram,235303,Simon Bernard,70403,jlescot
+org.eclipse.emf.ecoretools.diagram,238814,Simon Bernard,5298,jlescot
+org.eclipse.emf.ecoretools.diagram,238818,Simon Bernard,5595,jlescot
+org.eclipse.emf.ecoretools.diagram,238823,Simon Bernard,15368,jlescot
+org.eclipse.emf.ecoretools.diagram,238887,Simon Bernard,10651,jlescot
+org.eclipse.emf.ecoretools.diagram,249592,Ed Merks,13477,jlescot
+
+
+Section 3 (Third Party Software),,,,
+
+Name,Location,License,Usage,
