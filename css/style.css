@@ -924,3 +924,25 @@ h1.intro {
 #footer_wrapper .column.right {
 	width: 184px;
 }
+
+/* Cookies Consent
+
+------------------------------ */
+
+.cc-color-override-1434350510.cc-window, .cc-color-override-1434350510.cc-revoke, .cc-color-override-1434350510 .cc-btn {
+    font-family: "Open Sans Condensed", Arial, sans-serif !important;
+    }
+
+.cc-color-override-1434350510.cc-window, .cc-color-override-1434350510.cc-revoke {
+background-color: #261e58 !important;
+}
+.cc-color-override-1434350510 .cc-btn:last-child {
+background-color: #be1a78 !important;}
+
+.cc-color-override-1434350510 .cc-btn:hover, .cc-color-override-1434350510 .cc-btn:focus {
+    background-color: #7269a4 !important;
+}
+
+.cc-banner .cc-message {
+    padding-right: 50px;
+}
