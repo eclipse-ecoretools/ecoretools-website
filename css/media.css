@@ -72,7 +72,7 @@
 	display: inline-block;
 	width: 24px;
 	height: 24px;
-	background: url(http://dimsemenov.com/images/sm-logo-24x24.png);
+	background: url(https://dimsemenov.com/images/sm-logo-24x24.png);
 	position: absolute;
 	top: -4px;
 	left: -28px
@@ -83,7 +83,7 @@
 }
 
 #hackernews:before {
-	background: url(http://dimsemenov.com/images/hn-logo-18x18.gif);
+	background: url(https://dimsemenov.com/images/hn-logo-18x18.gif);
 	width: 18px;
 	height: 18px;
 	top: -1px;
